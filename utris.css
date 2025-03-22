@@ -1,3 +1,7 @@
+:root {
+    --main-bg-color:brown;
+}
+
 .max-width-1{
     max-width: 80vw;
 }
@@ -8,4 +12,8 @@
 
 .m-auto{
     margin: auto;
+}
+
+.btn{
+
 }
