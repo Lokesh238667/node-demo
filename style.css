@@ -17,6 +17,15 @@
     align-items: center;
 }
 
+.nav-left h1 {
+    font-family: "Oswald", sans-serif;
+}
+
+.nav-left ul li {
+    list-style: none;
+}
+
+.nav-right {}
 
 .content {
     height: 95px;
@@ -26,5 +35,4 @@
 .footer {
     height: 60px;
     background-color: blueviolet;
-    font-family: "Oswald", sans-serif;
 }
