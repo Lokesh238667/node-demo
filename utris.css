@@ -1,12 +1,12 @@
-:root{
-    main-bg-color:brown;
-    --font1:'Baloo Bhaina 2', cursive;
-    --font2:'Roboto',sans-serif;
+:root {
+    main-bg-color: brown;
+    --font1: 'Baloo Bhaina 2', cursive;
+    --font2: 'Roboto', sans-serif;
 }
 
 .max-width-1 {
     max-width: 80vw;
-}
+}q2
 
 .max-width-2 {
     max-width: 60vw;
@@ -15,6 +15,5 @@
 .m-auto {
     margin: auto;
 }
-.form-contorl{
 
-}
+.form-contorl {}

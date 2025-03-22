@@ -8,10 +8,12 @@
 }
 
 .navigation {
+    font-family: var(--font1);
+    font-size: 29px;
     height: 84px;
     background-color: aqua;
     display: flex;
-    justify-content:space-between;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -26,4 +28,3 @@
     background-color: blueviolet;
     font-family: "Oswald", sans-serif;
 }
-
