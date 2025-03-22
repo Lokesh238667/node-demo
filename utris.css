@@ -3,13 +3,16 @@
 
 :root {
     --main-bg-color: brown;
-    --font1:'Kanit Static',cursive;
-    --font2:'Bebas Neue',sans-serif;
+    --font1: 'Kanit Static', cursive;
+    --font2: 'Bebas Neue', sans-serif;
 }
 
-.max-width-1 {"
-    max-width: 80vw;
-}font-family: "Oswald", sans-serif;
+.max-width-1 {
+ max-width: 80vw;
+}
+
+font-family: "Oswald",
+sans-serif;
 
 .max-width-2 {
     max-width: 60vw;

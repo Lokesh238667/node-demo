@@ -4,6 +4,7 @@
 }
 
 .navigation {
+    font-family:var(--font1);
     height: 74px;
     background-color: aqua;
     display: flex;
